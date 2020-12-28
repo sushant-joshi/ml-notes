@@ -2,7 +2,7 @@
 
 ## Types of Data
 
-```markdown
+```
 ### Structured
  - Categorical
  - Numerical
@@ -17,8 +17,7 @@
 
 Broadly classified into Supervised and Unsupervised Algorithms.
 
-```markdown
-
+```
 ### Supervised Algorithms
 
 - Linear Regression
@@ -36,3 +35,4 @@ Broadly classified into Supervised and Unsupervised Algorithms.
 
 
 ### 
+```
