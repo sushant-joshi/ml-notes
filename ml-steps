@@ -1,0 +1,34 @@
+#  Steps involved in any Machine Learning Project
+
+## Data Collection
+Collecting the right data for your problem statement is the very first step. Depending on the source of the data and the problem at hand, it may be a very *structured*, well formatted data or it may be *unstructured* in the form of images, video, speech, etc.
+Structured data is typically one of the following data types - Numerical, Categorical, Ordinal, or Time Series. The raw data will rarely be able to be input to your ML algo as-is. It will, in most cases, require some from of pre-processing as explained next in data preparation.
+
+## Data Preparation
+* EDA (Exploratory Data Analysis) in order to 'learn' about the data. For example, identifying the key feature variables in a data set, whether the data is structured or unstructured. Do we see any missing values or are there any outliers. We may also need to interpret certain data elements based on common domain knowledge.
+* Data Preprocessing
+  ** Feature Imputation
+  ** Feature Encoding
+  ** Feature Normalization (scaling)
+  ** Feature Standardization
+  ** Feature Engineering
+  ** Feature Selection
+  ** Imbalanced Data
+* Data Splitting
+
+## Train a model on the data
+* Choose an Algorithm
+* Type of Learning
+** Batch Learning
+** Online Learning
+** Transfer Learning
+** Active Learning
+** Ensembling
+
+* Underfitting
+* Overfitting
+* Hyperparameter Tuning
+
+## Analysis and Evaluation
+## Serve the Model / Deploy the model to production
+## Retrain the model
