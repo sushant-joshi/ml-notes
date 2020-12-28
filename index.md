@@ -1,34 +1,35 @@
-## Notes on ML
+# Notes on ML
 
+## Types of Data
 
-### Types of ML Algorithms
+```markdown
+### Structured
+ - Categorical
+ - Numerical
+ - Ordinal
+ - Time Series
+
+### Unstructured
+ - Images, Speech, etc
+```
+
+## Types of ML Algorithms
 
 Broadly classified into Supervised and Unsupervised Algorithms.
 
 ```markdown
-Syntax highlighted code block
 
-# Supervised Algorithms
+### Supervised Algorithms
 
-## Linear Regression
-Draw a line that best fits data scattered on a graph. Produces continuous variables.
+- Linear Regression
+- Logistic Regression
+- k-Nearest Neighbours
+- Support Vector Machines
+- Decision Trees and Random Forests
+- AdaBoost / Gradient Boosting
+- Neural Networks
 
-## Logistic Regression
-Predicts a binary outcome based on a series of independent variables. For example, if you are trying to predict whether someone has a heart disease or not based on their health parameters.
-
-## k-Nearest Neighbours
-Find k examples which are most similar to each other. Then, given a new sample, which is the new sample most closely aligned with ?
-
-## Support Vector Machines
-Can be used for classification or regression. Try to find the best way to separate data points using multiple planes (referred to as Hyperplanes)
-
-## Decision Trees and Random Forests
-Can be used for classification and regression () 
-
-## AdaBoost / Gradient Boosting
-## Neural Networks
-
-# Unsupervised Algorithms
+### Unsupervised Algorithms
 - Clustering
 - Visualization and Dimensionality Reduction
 - Anamoly Detection
