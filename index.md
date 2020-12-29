@@ -13,6 +13,13 @@
  - Images, Speech, etc
 ```
 
+## Types of Models
+```
+1. Classification Model - When you need to predict what class or category a data point (dependant variable) belongs to based on given sets of input(s) (independent variable).
+
+2. Regression Model - When you need to predict a numerical value (dependant variable) belongs to based on a given set of input(s) (independent variable).
+```
+
 ## Types of ML Algorithms
 
 Broadly classified into Supervised and Unsupervised Algorithms.
